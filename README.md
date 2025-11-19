@@ -3,10 +3,10 @@ The most advanced, beautiful, and truly decentralized public Lavalink registry.
 
 This monitor aggregates nodes from local files, public lists, and the **BallisticOK/LavaStatus** community repository.
 
-Live Site → https://your-domain.com
-API Docs → https://your-domain.com/api
-Health → https://your-domain.com/health
-Source Code → https://github.com/YourUsername/lavalink-community
+Live Site → https://lavastatus.ballisticok.xyz/
+API Docs → https://lavastatus.ballisticok.xyz//api
+Health → https://lavastatus.ballisticok.xyz//health
+Source Code → At some point
 
 ────────────────────────────────────────
 
