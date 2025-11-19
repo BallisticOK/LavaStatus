@@ -1,74 +1,83 @@
-# LavaStatus Community Nodes
+# LavaStatus Community Monitor
 The most advanced, beautiful, and truly decentralized public Lavalink registry.
+
+This monitor aggregates nodes from local files, public lists, and the **BallisticOK/LavaStatus** community repository.
 
 Live Site → https://your-domain.com
 API Docs → https://your-domain.com/api
 Health → https://your-domain.com/health
-GitHub → https://github.com/YourUsername/lavalink-community
+Source Code → https://github.com/YourUsername/lavalink-community
 
 ────────────────────────────────────────
 
-How to Add Your Nodes (3 Minutes)
+## 🤝 How to Add Your Nodes to the Community
+Your nodes will be automatically added to *this* monitor if they are accepted into the official community list.
 
-1. Fork this repository
-2. Get your Discord User ID
-   • Open Discord → Settings → Advanced → Enable Developer Mode
-   • Right-click your profile → Copy ID
-   Example: 1095331935787679795
+**The nodes are fetched from:** **[BallisticOK/LavaStatus/contributors](https://github.com/BallisticOK/LavaStatus)**
 
-3. Create your folder
-   contributors/1095331935787679795/
+To contribute:
 
-4. Add info.json (your name + badge + avatar)
-{
-  "name": "DEDSEC",
-  "badge": "Founder",
-  "avatarHash": "a_9d8e8f9e8f9e8f9e8f9e8f9e8f9e8f9e"
-}
+1.  **Fork the Community Repository:**
+    Go to **[BallisticOK/LavaStatus](https://github.com/BallisticOK/LavaStatus)** and fork the project.
 
-5. Add nodes.json (your Lavalink nodes)
-[
-  {
-    "identifier": "DEDSEC Node • Australia",
-    "host": "58.172.0.148",
-    "port": 2333,
-    "password": "youshallnotpass",
-    "secure": false,
-    "restVersion": "v4"
-  }
-]
+2.  **Get your Discord User ID:**
+    * Open Discord → Settings → Advanced → Enable Developer Mode
+    * Right-click your profile → Copy ID
+    * *Example: 1095331935787679795*
 
-6. Commit → Push → Open Pull Request
+3.  **Create your folder:**
+    `contributors/YOUR_USER_ID/`
 
-Your nodes go live instantly when merged.
+4.  **Add `nodes.json`** (Your Lavalink nodes)
+    ```json
+    [
+      {
+        "identifier": "what you call your node",
+        "host": "your host ip/hostname",
+        "port": your port,
+        "password": "yousexypassword",
+        "secure": false,
+        "restVersion": "v4"
+      }
+    ]
+    ```
+
+5.  **Commit, Push, and Open a Pull Request** in the **BallisticOK/LavaStatus** repository.
+
+Your nodes go live across all monitors using this system when merged.
 
 ────────────────────────────────────────
 
-Folder Structure
+## ⚙️ Deployment & Node Sources
+
+This monitor fetches nodes from three sources:
+
+| Source Type | Configuration File/Location | Description |
+| :--- | :--- | :--- |
+| **Local** | `nodes.json` (root directory) | Highest priority. For personal/private nodes. |
+| **Public CDN** | Hardcoded in `index.js` | Public, well-known node lists (e.g., cdn.ballisticok.xyz). |
+| **GitHub Community** | Hardcoded in `index.js` | Nodes from **BallisticOK/LavaStatus/contributors** are dynamically scanned and merged. |
+
+### Folder Structure (Community Repo)
+```
+
 contributors/
 ├── 1095331935787679795/
-│   ├── info.json
 │   └── nodes.json
-└── 727681845693104198/
-    ├── info.json
-    └── nodes.json
+
+```
 
 ────────────────────────────────────────
 
-Popular Badges
-Founder • Top Host • Verified • Premium • Legend • Early Supporter
-Just type whatever you want in "badge"
-
-────────────────────────────────────────
-
-Rules
-• Public nodes only
-• Real uptime >90%
-• Correct secure: true/false
-• Lavalink v3 or v4 only
+## 📝 Rules for Contribution
+* Public nodes only.
+* Real uptime >90% (monitored).
+* Correct `secure: true/false` status.
+* Lavalink v3 or v4 only.
 
 Made with love by 0x00sec
 
-Star • Fork • Add your nodes • Become immortal
+**Star • Fork • Add your nodes • Become immortal**
 
-https://github.com/YourUsername/lavalink-community
+**[https://github.com/BallisticOK/LavaStatus](https://github.com/BallisticOK/LavaStatus)**
+```
