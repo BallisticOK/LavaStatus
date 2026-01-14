@@ -1,0 +1,11 @@
+[
+    {
+        "identifier": "jompo.cloud - Lavalink",
+        "host": "lavalink-legacy.jompo.cloud",
+        "port": 2333,
+        "password": "jompo",
+        "secure": false,
+        "restVersion": "v3",
+        "authorId": "440507637373861889"
+    }
+]
