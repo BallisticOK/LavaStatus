@@ -1,0 +1,11 @@
+[
+    {
+        "identifier": "Horizxon - SG",
+        "host": "ssl.lavalink.rocks",
+        "port": 443,
+        "password": "horizxon.tech",
+        "secure": true,
+        "restVersion": "v4",
+        "authorId": "410380919212605440"
+    }
+]
