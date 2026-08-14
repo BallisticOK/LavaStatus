@@ -1,14 +1,5 @@
 [
   {
-    "identifier": "DEDSEC Node 2 (AUSTRALIA) (v3)",
-    "host": "lavalink2v3.ballisticok.xyz",
-    "port": 443,
-    "password": "YourSuperStrongPassword123!",
-    "secure": true,
-    "restVersion": "v3",
-    "authorId": "1095331935787679795"
-  },
-  {
     "identifier": "DEDSEC Node 4 (GERMANY) (v4)",
     "host": "51.195.86.129",
     "port": 2333,
