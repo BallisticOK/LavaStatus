@@ -1,11 +1,11 @@
 [
   {
-    "identifier": "HBA-LAVA-01",
-    "host": "lava1.cachedev.live",
+    "identifier": "HBA-LAVA-02",
+    "host": "lava2.cachedev.live",
     "port": 443,
     "password": "AS9CPMB8DzPAEzJm72",
     "secure": true,
-    "restVersion": "v4",
+    "restVersion": "v3",
     "authorId": "896893219902742539"
   }
 ]
