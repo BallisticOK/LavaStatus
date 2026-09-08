@@ -1,6 +1,6 @@
 [
   {
-    "identifier": "HBA-LAVA-01",
+    "identifier": "HBA-BASS-01",
     "host": "lava1.cachedev.live",
     "port": 443,
     "password": "AS9CPMB8DzPAEzJm72",
