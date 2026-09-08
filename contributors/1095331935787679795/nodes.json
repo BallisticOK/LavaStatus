@@ -1,6 +1,6 @@
 [
   {
-    "identifier": "DEDSEC HQ Node (V4)",
+    "identifier": "DEDSEC HQ Node (V4) [AUS]",
     "host": "lavalink1v4.0x00sec.xyz",
     "port": 443,
     "password": "AS9CPMB8DzPAEzJm72",
@@ -9,7 +9,7 @@
     "authorId": "1095331935787679795"
   },
   {
-    "identifier": "DEDSEC HQ Node 2 (V4)",
+    "identifier": "DEDSEC HQ Node 2 (V4) [AUS]",
     "host": "lavalink2v4.0x00sec.xyz",
     "port": 443,
     "password": "AS9CPMB8DzPAEzJm72",
@@ -18,8 +18,17 @@
     "authorId": "1095331935787679795"
   },
   {
-    "identifier": "DEDSEC HQ Node 3 (V4)",
+    "identifier": "DEDSEC HQ Node 3 (V4) [AUS]",
     "host": "lavalink3v4.0x00sec.xyz",
+    "port": 443,
+    "password": "AS9CPMB8DzPAEzJm72",
+    "secure": true,
+    "restVersion": "v4",
+    "authorId": "1095331935787679795"
+  },
+  {
+    "identifier": "DEDSEC HQ Node 4 (V4) [DEU]",
+    "host": "lavalink4v4.0x00sec.xyz",
     "port": 443,
     "password": "AS9CPMB8DzPAEzJm72",
     "secure": true,
