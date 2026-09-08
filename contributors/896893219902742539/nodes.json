@@ -34,5 +34,14 @@
     "secure": true,
     "restVersion": "v4",
     "authorId": "896893219902742539"
+  },
+  {
+    "identifier": "HBA-LAVA-03",
+    "host": "lava5.cachedev.live",
+    "port": 443,
+    "password": "AS9CPMB8DzPAEzJm72",
+    "secure": true,
+    "restVersion": "v4",
+    "authorId": "896893219902742539"
   }
 ]
