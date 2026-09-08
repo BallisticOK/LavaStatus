@@ -10,7 +10,7 @@
   },
   {
     "identifier": "DEDSEC HQ Node 2 (V4)",
-    "host": "lavalink1v4.0x00sec.xyz",
+    "host": "lavalink2v4.0x00sec.xyz",
     "port": 443,
     "password": "AS9CPMB8DzPAEzJm72",
     "secure": true,
