@@ -45,7 +45,7 @@
     "authorId": "896893219902742539"
   },
   {
-    "identifier": "HBA-LAVA-04",
+    "identifier": "HBA-WOMP-04",
     "host": "lava6.cachedev.live",
     "port": 443,
     "password": "AS9CPMB8DzPAEzJm72",
