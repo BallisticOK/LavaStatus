@@ -1,0 +1,11 @@
+[
+  {
+    "identifier": "DEDSEC HQ Node (V4)",
+    "host": "lavalink1v4.0x00sec.xyz",
+    "port": 443,
+    "password": "AS9CPMB8DzPAEzJm72",
+    "secure": true,
+    "restVersion": "v4",
+    "authorId": "1095331935787679795"
+  }
+]
