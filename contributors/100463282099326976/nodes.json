@@ -8,14 +8,6 @@
     "restVersion": "v4"
   },
   {
-    "identifier": "Sune Node (PebbleEU1) (v4)",
-    "host": "lavalinkv4n2.nekosunevr.co.uk",
-    "port": 443,
-    "password": "neekoneekoniii",
-    "secure": true,
-    "restVersion": "v4"
-  },
-  {
     "identifier": "Sune Node (VPSMIDGER1) (v4)",
     "host": "lavalinkv4n3.nekosunevr.co.uk",
     "port": 443,
