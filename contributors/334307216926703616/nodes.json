@@ -1,0 +1,50 @@
+[
+    {
+        "identifier": "lavalinkv4-serenetia-com-443",
+        "host": "lavalinkv4.serenetia.com",
+        "port": 443,
+        "password": "https://dsc.gg/ajidevserver",
+        "secure": true,
+        "restVersion": "v4"
+    },
+    {
+        "identifier": "lavalinkv4-serenetia-com-80",
+        "host": "lavalinkv4.serenetia.com",
+        "port": 80,
+        "password": "https://dsc.gg/ajidevserver",
+        "secure": false,
+        "restVersion": "v4"
+    },
+    {
+        "identifier": "lavalinkv3-serenetia-com-443",
+        "host": "lavalinkv3.serenetia.com",
+        "port": 443,
+        "password": "https://dsc.gg/ajidevserver",
+        "secure": true,
+        "restVersion": "v3"
+    },
+    {
+        "identifier": "lavalinkv3-serenetia-com-80",
+        "host": "lavalinkv3.serenetia.com",
+        "port": 80,
+        "password": "https://dsc.gg/ajidevserver",
+        "secure": false,
+        "restVersion": "v3"
+    },
+    {
+        "identifier": "lavalink-serenetia-com-443",
+        "host": "lavalink.serenetia.com",
+        "port": 443,
+        "password": "https://dsc.gg/ajidevserver",
+        "secure": true,
+        "restVersion": "v4"
+    },
+    {
+        "identifier": "lavalink-serenetia-com-80",
+        "host": "lavalink.serenetia.com",
+        "port": 80,
+        "password": "https://dsc.gg/ajidevserver",
+        "secure": false,
+        "restVersion": "v4"
+    }
+]
