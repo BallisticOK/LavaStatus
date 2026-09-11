@@ -7,5 +7,14 @@
     "secure": true,
     "restVersion": "v4",
     "authorId": "100463282099326976"
+  },
+  {
+    "identifier": "NekoLavaV3",
+    "host": "lavalinkv3.nekosunevr.co.uk",
+    "port": 443,
+    "password": "nekonekoniii",
+    "secure": true,
+    "restVersion": "v3",
+    "authorId": "100463282099326976"
   }
 ]
