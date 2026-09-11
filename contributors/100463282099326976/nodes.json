@@ -1,0 +1,11 @@
+[
+  {
+    "identifier": "NekoLava",
+    "host": "lavalinkv4.nekosunevr.co.uk",
+    "port": 443,
+    "password": "nekonekoniii",
+    "secure": true,
+    "restVersion": "v4",
+    "authorId": "100463282099326976"
+  }
+]
