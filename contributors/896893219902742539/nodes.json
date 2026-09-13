@@ -27,15 +27,6 @@
     "authorId": "896893219902742539"
   },
   {
-    "identifier": "USA-BOOM-02",
-    "host": "lava4.cachedev.live",
-    "port": 443,
-    "password": "AS9CPMB8DzPAEzJm72",
-    "secure": true,
-    "restVersion": "v4",
-    "authorId": "896893219902742539"
-  },
-  {
     "identifier": "HBA-WOMP-03",
     "host": "lava5.cachedev.live",
     "port": 443,
