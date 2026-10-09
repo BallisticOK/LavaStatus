@@ -34,5 +34,14 @@
     "secure": true,
     "restVersion": "v4",
     "authorId": "1095331935787679795"
+  },
+  {
+    "identifier": "DEDSEC HQ Node 5 (V4) [DEU]",
+    "host": "lavalink5v4.0x00sec.xyz",
+    "port": 443,
+    "password": "AS9CPMB8DzPAEzJm73",
+    "secure": true,
+    "restVersion": "v4",
+    "authorId": "1095331935787679795"
   }
 ]
