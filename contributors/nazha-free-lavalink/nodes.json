@@ -6,29 +6,5 @@
         "password": "nazhafreelava",
         "secure": true,
         "restVersion": "v4"
-    },
-    {
-        "identifier": "nazha-sg1",
-        "host": "sg-1.nazha.online",
-        "port": 443,
-        "password": "https://discord.gg/XeSCnk57ZF",
-        "secure": true,
-        "restVersion": "v4"
-    },
-    {
-        "identifier": "nazha-sg2",
-        "host": "sg-2.nazha.online",
-        "port": 443,
-        "password": "https://discord.gg/XeSCnk57ZF",
-        "secure": true,
-        "restVersion": "v4"
-    },
-    {
-        "identifier": "nazha-sg3",
-        "host": "sg-3.nazha.online",
-        "port": 443,
-        "password": "https://discord.gg/XeSCnk57ZF",
-        "secure": true,
-        "restVersion": "v4"
     }
 ]
