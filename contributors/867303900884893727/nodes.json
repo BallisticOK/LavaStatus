@@ -1,14 +1,5 @@
 [
   {
-    "identifier": "Public Lavalink v3",
-    "host": "lava-v3.ajieblogs.eu.org",
-    "port": 443,
-    "password": "https://dsc.gg/ajidevserver",
-    "secure": true,
-    "restVersion": "v3",
-    "authorId": "867303900884893727"
-  },
-  {
     "identifier": "Public Lavalink v3 NonSSL",
     "host": "lava-v3.ajieblogs.eu.org",
     "port": 80,
