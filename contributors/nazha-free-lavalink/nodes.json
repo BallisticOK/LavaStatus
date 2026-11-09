@@ -1,0 +1,10 @@
+[
+    {
+        "identifier": "nazha-main",
+        "host": "lavalink.nazha.online",
+        "port": 443,
+        "password": "nazhafreelava",
+        "secure": true,
+        "restVersion": "v4"
+    }
+]
