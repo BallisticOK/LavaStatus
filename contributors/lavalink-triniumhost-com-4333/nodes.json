@@ -1,0 +1,10 @@
+[
+    {
+        "identifier": "lavalink-triniumhost-com-4333",
+        "host": "lavalink.triniumhost.com",
+        "port": 4333,
+        "password": "free",
+        "secure": false,
+        "restVersion": "v4"
+    }
+]
