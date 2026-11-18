@@ -43,5 +43,14 @@
     "secure": true,
     "restVersion": "v4",
     "authorId": "1095331935787679795"
+  },
+  {
+    "identifier": "DEDSEC HQ Node 6 Lite (V4) [AUS]",
+    "host": "lavalink6v4.0x00sec.xyz",
+    "port": 443,
+    "password": "AS9CPMB8DzPAEzJm72",
+    "secure": true,
+    "restVersion": "v4",
+    "authorId": "1095331935787679795"
   }
 ]
